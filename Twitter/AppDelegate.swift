@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Twitter
 //
-//  Created by Olsera on 13/03/19.
+//  Created by Mirza on 13/03/19.
 //  Copyright © 2019 Mirza. All rights reserved.
 //
 
